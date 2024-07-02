@@ -3,7 +3,7 @@ import SvgIcon from './components/svg-icon.vue'
 </script>
 
 <template>
-  <div>
+  <div style="font-size: 200px;">
     <SvgIcon local-icon="vue" />
   </div>
 </template>
